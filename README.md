@@ -29,7 +29,6 @@ previous exam scores and current exam scores.
 - Matplotlib
 - Seaborn
 - Plotly Express
-- Jupyter Notebook
 
 ## Project Workflow
 
